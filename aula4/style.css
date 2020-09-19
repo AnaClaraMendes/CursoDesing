@@ -1,0 +1,29 @@
+   * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+   }
+
+    .cor {
+        color:#fff;
+        background: #237;
+        height: 50px;
+        width: 40%;
+
+        /* margin-right: 10%;
+        margin-left: 20%;
+        margin-bottom: 30%;
+        margin-top: 30%; */
+    }
+    .box {
+        color:#fff;
+        background: #237;
+        display: inline-block;
+        height: 50px;
+        width: 40%;
+        margin: 20px 40px 12px ;
+        
+        padding: 20px 10px;
+
+    }
+

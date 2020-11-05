@@ -5,3 +5,12 @@ img{
 .teste {
     width: 500px;
 }
+ 
+ div{
+     background-color: #000000;
+     color: #ffffff;
+     width: 600px;
+     height: 600px;
+     border:10px solid #999999;
+     border-radius:20px;;
+ }
